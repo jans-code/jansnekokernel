@@ -14,6 +14,7 @@ Also there is no syntax highlighting.
 - `pip install -e ./`
 - then install kernelspec
 - `jansnekokernel`
+- or
 - `jupyter kernelspec install --user jansnekokernel`
 
 ## Uninstall
