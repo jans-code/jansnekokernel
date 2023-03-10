@@ -10,7 +10,7 @@ class jansnekokernel(Kernel):
     language_info = {
         'name': 'neko',
         'mimetype': 'application/neko',
-        'file_extension': ['.neko', '.n'],
+        'file_extension': '.neko',
     }
     banner = "neko kernel"
 
