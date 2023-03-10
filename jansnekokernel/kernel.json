@@ -1,0 +1,3 @@
+{"argv":["python","-m","jansnekokernel", "-f", "{connection_file}"],
+ "display_name":"Neko"
+}
