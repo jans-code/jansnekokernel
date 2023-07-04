@@ -37,4 +37,5 @@ class jansnekokernel(Kernel):
                }
     
     def do_shutdown(self, restart):
-        shutil.rmtree(workingdir)
+        if os.path.exists(workingdir):
+            shutil.rmtree(workingdir)
