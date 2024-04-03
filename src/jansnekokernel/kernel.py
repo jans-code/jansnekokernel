@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+#!/usr/bin/env python
 from ipykernel.kernelbase import Kernel
 import pexpect, os, shutil
 
